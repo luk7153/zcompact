@@ -3,8 +3,8 @@ package merge
 import (
 	"bytes"
 	"fmt"
-	"github.com/luk7152/zcompact/constaint"
-	"github.com/luk7152/zcompact/utils"
+	"github.com/luk7153/zcompact/constaint"
+	"github.com/luk7153/zcompact/utils"
 	"html/template"
 	"io/ioutil"
 	"os"

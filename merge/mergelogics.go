@@ -3,8 +3,8 @@ package merge
 import (
 	"bytes"
 	"fmt"
-	"github.com/luk7152/zcompact/constaint"
-	"github.com/luk7152/zcompact/utils"
+	"github.com/luk7153/zcompact/constaint"
+	"github.com/luk7153/zcompact/utils"
 	"github.com/zeromicro/go-zero/core/stringx"
 	"github.com/zeromicro/go-zero/tools/goctl/api/spec"
 	"github.com/zeromicro/go-zero/tools/goctl/util/format"

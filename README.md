@@ -7,7 +7,7 @@ modify on zhe goctl-go-compact base
 ### 1. install zcompact
 
 ```
-$ GOPROXY=https://goproxy.cn/,direct go install https://github.com/luk7152/zcompact@latest
+$ GOPROXY=https://goproxy.cn/,direct go install https://github.com/luk7153/zcompact@latest
 ```
 
 ### 2. environment setup

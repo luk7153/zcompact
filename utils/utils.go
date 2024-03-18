@@ -3,7 +3,7 @@ package utils
 import (
 	"bytes"
 	"fmt"
-	"github.com/luk7152/zcompact/constaint"
+	"github.com/luk7153/zcompact/constaint"
 	"github.com/zeromicro/go-zero/tools/goctl/api/spec"
 	"github.com/zeromicro/go-zero/tools/goctl/api/util"
 	"github.com/zeromicro/go-zero/tools/goctl/pkg/golang"

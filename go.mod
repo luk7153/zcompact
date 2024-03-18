@@ -1,4 +1,4 @@
-module github.com/luk7152/zcompact
+module github.com/luk7153/zcompact
 
 go 1.18
 

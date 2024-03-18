@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gookit/color"
-	"github.com/luk7152/zcompact/merge"
+	"github.com/luk7153/zcompact/merge"
 	"github.com/zeromicro/go-zero/tools/goctl/api/gogen"
 	"github.com/zeromicro/go-zero/tools/goctl/config"
 	"github.com/zeromicro/go-zero/tools/goctl/pkg/golang"
